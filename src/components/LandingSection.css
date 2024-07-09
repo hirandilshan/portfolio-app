@@ -1,0 +1,12 @@
+.landing-section {
+    background: #f5f5f5;
+    padding: 5rem 1rem;
+    text-align: center;
+  }
+  
+  .landing-section .avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
